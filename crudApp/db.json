@@ -5,7 +5,8 @@
       "email": "abhishek@gmail.com",
       "firstName": "abhishek",
       "lastName": "Jha",
-      "role": "superadmin"
+      "role": "user",
+      "password":"abhishek"
     },
     {
       "id": "priyanka@gmail.com",
@@ -16,12 +17,12 @@
       "password": "priyanka"
     },
     {
-      "id": "himanshu@gmail.com",
-      "email": "himanshu@gmail.com",
-      "firstName": "himanshu",
+      "id": "lali@gmail.com",
+      "email": "lali@gmail.com",
+      "firstName": "lali",
       "lastName": "jha",
-      "password": "himanshu",
-      "role": "user"
+      "password": "123456",
+      "role": "admin"
     }
   ],
   "roleaccess": [
